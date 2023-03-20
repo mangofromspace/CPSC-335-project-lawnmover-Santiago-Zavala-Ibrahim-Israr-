@@ -1,0 +1,18 @@
+#Ignore Doc Types
+*.docx
+*.txt
+
+#Ignore Test files
+*.cpp
+*.hpp
+#Dont Ignore this file
+!disks.hpp
+
+#Ignore Executables
+*.out
+
+#Ignore Generated Files
+*.slo
+*.lo
+*.o
+*.obj
